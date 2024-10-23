@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exposición del Coche</title>
+</head>
+<body>
+    <header>
+        <h1>Exposición del Coche Casero</h1>
+    </header>
+    <section id="descripcion">
+        <h2>Descripción del Coche</h2>
+        <p>El coche casero ha sido construido utilizando materiales reciclados...</p>
+    </section>
+    <section id="materiales">
+        <h2>Materiales Utilizados</h2>
+        <ul>
+            <li>Carrocería: Madera ligera</li>
+            <li>Ruedas: Discos compactos (CDs)</li>
+            <li>...</li>
+        </ul>
+    </section>
+    <section id="sistema-propulsion">
+        <h2>Sistema de Propulsión</h2>
+        <p>La botella de plástico invertida...</p>
+    </section>
+    <footer>
+        <p>Proyecto realizado por Alejandro</p>
+    </footer>
+</body>
+</html>
